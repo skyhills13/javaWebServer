@@ -30,7 +30,5 @@ public class WebServer {
 		} catch (IOException e) {
 			logger.log(Level.INFO, "Create Webserver Error: " + e);
 		}
-		
-		
 	}
 }
